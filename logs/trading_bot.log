@@ -1,0 +1,165 @@
+2026-03-29 13:49:27,001 | INFO | API Request: {'symbol': 'B', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.5}
+2026-03-29 13:49:27,003 | ERROR | Retry 1 failed: API Secret required for private endpoints
+2026-03-29 13:49:28,005 | INFO | API Request: {'symbol': 'B', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.5}
+2026-03-29 13:49:28,006 | ERROR | Retry 2 failed: API Secret required for private endpoints
+2026-03-29 13:49:29,007 | INFO | API Request: {'symbol': 'B', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.5}
+2026-03-29 13:49:29,007 | ERROR | Retry 3 failed: API Secret required for private endpoints
+2026-03-29 13:51:36,003 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.5}
+2026-03-29 13:51:36,671 | INFO | API Response: {}
+2026-03-29 13:54:34,752 | INFO | API Request: {'symbol': 'BITCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.5}
+2026-03-29 13:54:35,076 | INFO | API Response: {}
+2026-03-29 13:56:48,202 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.4}
+2026-03-29 13:56:48,507 | INFO | API Response: {}
+2026-03-29 14:02:44,218 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'quantity': 5.0, 'price': 65.0, 'timeInForce': 'GTC'}
+2026-03-29 14:02:44,401 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:02:44,402 | ERROR | Retry 1 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:02:45,404 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'quantity': 5.0, 'price': 65.0, 'timeInForce': 'GTC'}
+2026-03-29 14:02:45,550 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:02:45,550 | ERROR | Retry 2 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:02:46,554 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'quantity': 5.0, 'price': 65.0, 'timeInForce': 'GTC'}
+2026-03-29 14:02:46,715 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:02:46,715 | ERROR | Retry 3 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:08:20,476 | INFO | API Request: {'symbol': 'BIT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 8.0}
+2026-03-29 14:08:20,754 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:08:20,757 | ERROR | Retry 1 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:08:21,762 | INFO | API Request: {'symbol': 'BIT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 8.0}
+2026-03-29 14:08:21,931 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:08:21,931 | ERROR | Retry 2 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:08:22,934 | INFO | API Request: {'symbol': 'BIT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 8.0}
+2026-03-29 14:08:23,084 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:08:23,084 | ERROR | Retry 3 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:13:11,364 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 8.0}
+2026-03-29 14:13:11,677 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:13:11,677 | ERROR | Retry 1 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:13:12,680 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 8.0}
+2026-03-29 14:13:12,868 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:13:12,868 | ERROR | Retry 2 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:13:13,873 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 8.0}
+2026-03-29 14:13:14,041 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:13:14,041 | ERROR | Retry 3 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:14:57,919 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.5}
+2026-03-29 14:14:58,193 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:14:58,193 | ERROR | Retry 1 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:14:59,198 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.5}
+2026-03-29 14:14:59,338 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:14:59,338 | ERROR | Retry 2 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:15:00,349 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.5}
+2026-03-29 14:15:00,749 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:15:00,749 | ERROR | Retry 3 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:28:29,370 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2026-03-29 14:28:30,385 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:28:30,385 | ERROR | Retry 1 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:28:31,386 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2026-03-29 14:28:31,559 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:28:31,560 | ERROR | Retry 2 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:28:32,561 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2026-03-29 14:28:32,762 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:28:32,762 | ERROR | Retry 3 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:28:40,973 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2026-03-29 14:28:41,229 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:28:41,229 | ERROR | Retry 1 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:28:42,236 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2026-03-29 14:28:42,418 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:28:42,419 | ERROR | Retry 2 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:28:43,420 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2026-03-29 14:28:43,612 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:28:43,613 | ERROR | Retry 3 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:28:52,542 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2026-03-29 14:28:52,807 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:28:52,807 | ERROR | Retry 1 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:28:53,809 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2026-03-29 14:28:54,013 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:28:54,114 | ERROR | Retry 2 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:28:55,117 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2026-03-29 14:28:55,436 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:28:55,437 | ERROR | Retry 3 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:29:02,209 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2026-03-29 14:29:02,444 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:29:02,444 | ERROR | Retry 1 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:29:03,446 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2026-03-29 14:29:03,645 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:29:03,646 | ERROR | Retry 2 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:29:04,647 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2026-03-29 14:29:04,853 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 14:29:04,854 | ERROR | Retry 3 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 15:36:21,982 | INFO | Order request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-03-29 15:36:21,984 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-03-29 15:36:22,704 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 15:36:22,704 | ERROR | Retry 1 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 15:36:23,709 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-03-29 15:36:23,913 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 15:36:23,914 | ERROR | Retry 2 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 15:36:24,914 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-03-29 15:36:25,140 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 15:36:25,140 | ERROR | Retry 3 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 15:36:26,143 | ERROR | Order failed: Max retries exceeded
+2026-03-29 15:39:18,441 | INFO | Order request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.5}
+2026-03-29 15:39:18,441 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.5}
+2026-03-29 15:39:19,907 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 15:39:19,907 | ERROR | Retry 1 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 15:39:20,910 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.5}
+2026-03-29 15:39:21,121 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 15:39:21,122 | ERROR | Retry 2 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 15:39:22,123 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.5}
+2026-03-29 15:39:22,318 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 15:39:22,320 | ERROR | Retry 3 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 15:39:23,321 | ERROR | Order failed: Max retries exceeded
+2026-03-29 15:46:02,151 | INFO | Order request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-03-29 15:46:02,252 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-03-29 15:46:02,879 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 15:46:02,879 | ERROR | Retry 1 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 15:46:03,886 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-03-29 15:46:04,099 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 15:46:04,103 | ERROR | Retry 2 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 15:46:05,105 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-03-29 15:46:05,291 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 15:46:05,291 | ERROR | Retry 3 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 15:46:06,295 | ERROR | Order failed: Max retries exceeded
+2026-03-29 15:51:05,376 | INFO | Binance Futures Testnet client initialized
+2026-03-29 15:51:05,378 | INFO | Order request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-03-29 15:51:05,379 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-03-29 15:51:05,612 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 15:51:05,612 | ERROR | Retry 1 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 15:51:06,614 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-03-29 15:51:06,799 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 15:51:06,799 | ERROR | Retry 2 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 15:51:07,801 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-03-29 15:51:08,006 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 15:51:08,007 | ERROR | Retry 3 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 15:51:09,007 | ERROR | Order failed: Max retries exceeded
+2026-03-29 16:12:31,303 | INFO | Binance Futures Testnet client initialized
+2026-03-29 16:12:31,410 | INFO | Order request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 5.0}
+2026-03-29 16:12:31,410 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 5.0}
+2026-03-29 16:12:32,026 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 16:12:32,026 | ERROR | Retry 1 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 16:12:33,029 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 5.0}
+2026-03-29 16:12:33,233 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 16:12:33,234 | ERROR | Retry 2 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 16:12:34,236 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 5.0}
+2026-03-29 16:12:34,442 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 16:12:34,442 | ERROR | Retry 3 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 16:12:35,444 | ERROR | Order failed: Max retries exceeded
+2026-03-29 16:15:36,640 | INFO | Binance Futures Testnet client initialized
+2026-03-29 16:15:36,640 | INFO | Order request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-03-29 16:15:36,640 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-03-29 16:15:37,258 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 16:15:37,258 | ERROR | Retry 1 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 16:15:38,260 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-03-29 16:15:38,460 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 16:15:38,460 | ERROR | Retry 2 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 16:15:39,466 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-03-29 16:15:39,678 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 16:15:39,770 | ERROR | Retry 3 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 16:15:40,772 | ERROR | Order failed: Max retries exceeded
+2026-03-29 17:36:26,893 | INFO | Binance Futures Testnet client initialized
+2026-03-29 17:36:26,897 | INFO | Order request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 5.0}
+2026-03-29 17:36:26,897 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 5.0}
+2026-03-29 17:36:27,396 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 17:36:27,396 | ERROR | Retry 1 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 17:36:28,399 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 5.0}
+2026-03-29 17:36:28,851 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 17:36:28,851 | ERROR | Retry 2 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 17:36:29,856 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 5.0}
+2026-03-29 17:36:30,029 | ERROR | API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 17:36:30,029 | ERROR | Retry 3 failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 17:36:31,036 | ERROR | Order failed: Max retries exceeded

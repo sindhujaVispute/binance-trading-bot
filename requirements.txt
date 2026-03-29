@@ -1,0 +1,7 @@
+python-binance
+typer
+rich
+python-dotenv
+streamlit
+pandas
+requests
