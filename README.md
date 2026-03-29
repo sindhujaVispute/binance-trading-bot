@@ -87,3 +87,6 @@ Logs demonstrate correct order construction and execution flow.
 * Streamlit
 * Binance API
 * Logging module
+
+* <img width="1917" height="913" alt="Screenshot 2026-03-29 191719" src="https://github.com/user-attachments/assets/8df99dfc-a2f3-45f3-8e48-dab1d9b945df" />
+
