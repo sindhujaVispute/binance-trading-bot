@@ -1,9 +1,9 @@
-# 🚀 Binance Futures Trading Bot
+# Binance Futures Trading Bot
 
-## 📌 Overview
+## Overview
 A modular Python trading bot for Binance Futures Testnet with CLI interface, logging, validation, and a modern Streamlit dashboard.
 ---
-## ✨ Features
+## Features
 * MARKET & LIMIT orders
 * BUY / SELL support
 * CLI interface (Typer)
@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```
 
 ---
-## 🔑 Environment Variables
+## Environment Variables
 
 Create `.env` file:
 
@@ -30,7 +30,7 @@ BINANCE_API_KEY=your_key
 BINANCE_API_SECRET=your_secret
 ```
 ---
-## ▶️ Run CLI
+## Run CLI
 
 ### MARKET Order
 
@@ -45,13 +45,13 @@ python cli.py --symbol BTCUSDT --side BUY --order-type LIMIT --quantity 0.01 --p
 ```
 
 ---
-## 📊 Run Dashboard
+## Run Dashboard
 
 ```bash
 streamlit run app.py
 ```
 ---
-## 🧪 Example Output
+## Example Output
 
 ```
 Order request: {...}
@@ -63,12 +63,12 @@ Response:
 }
 ```
 ---
-## 🧠 Assumptions
+## Assumptions
 * Binance Futures Testnet is used
 * Orders are simulated if API fails
 * Network/API instability handled via retries
 ---
-## 📝 Logging
+## Logging
 Logs are stored in:
 
 ```
